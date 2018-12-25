@@ -1,3 +1,3 @@
 # Data-Structures-
 
-Cousework from Data Structures Class
+Coursework from Data Structures Class
